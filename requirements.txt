@@ -1,0 +1,11 @@
+faiss-cpu==1.8.0
+h5py==3.11.0
+MedCLIP==0.0.3
+numpy==1.24.4
+open-clip-torch==2.24.0
+pandas==2.0.3
+pillow==10.3.0
+scikit-learn==1.3.2
+torch==2.2.2
+transformers==4.39.3
+tqdm==4.66.2

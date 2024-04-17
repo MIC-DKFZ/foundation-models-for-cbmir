@@ -1,0 +1,14 @@
+.vscode
+/datasets
+/checkpoints
+/embeddings
+/experiments
+/outputs
+/.venv
+__pycache__
+*/.ipynb_checkpoints/*
+*/.vscode/*
+*/.idea/*
+*/.git/*
+*/.gitignore
+*/.DS_Store
